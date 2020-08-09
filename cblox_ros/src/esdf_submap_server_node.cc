@@ -1,4 +1,5 @@
 #include <cblox_ros/submap_server.h>
+#include <gflags/gflags.h>
 #include <glog/logging.h>
 #include <ros/ros.h>
 
