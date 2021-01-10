@@ -33,3 +33,6 @@
 
 # IDE
 **/.idea
+.vscode
+compile_commands.json
+.cache
