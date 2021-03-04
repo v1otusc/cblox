@@ -26,6 +26,7 @@
 #include "cblox_ros/pose_vis.h"
 #include "cblox_ros/ros_params.h"
 #include "cblox_ros/submap_conversions.h"
+#include "cblox_ros/submap_server.h"
 
 namespace cblox {
 

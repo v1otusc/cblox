@@ -2,6 +2,7 @@
 #define CBLOX_MESH_SUBMAP_MESHER_INL_H_
 
 #include <vector>
+#include "cblox/mesh/submap_mesher.h"
 
 namespace cblox {
 template <typename SubmapType>

@@ -166,7 +166,7 @@ class SubmapCollection : public SubmapCollectionInterface {
       const std::string& file_path,
       typename SubmapCollection<SubmapType>::Ptr* submap_collection_ptr);
 
- private:
+ protected:
   // TODO(alexmillane): Get some concurrency guards
 
   // The config used for the patches
